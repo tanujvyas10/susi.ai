@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.94ea1654.css",
   "main.css.map": "static/css/main.94ea1654.css.map",
-  "main.js": "static/js/main.a654312e.js",
-  "main.js.map": "static/js/main.a654312e.js.map",
+  "main.js": "static/js/main.db01aec0.js",
+  "main.js.map": "static/js/main.db01aec0.js.map",
   "static/media/Akshat.jpeg": "static/media/Akshat.e8d0f9e8.jpeg",
   "static/media/AkshatGarg.jpeg": "static/media/AkshatGarg.bb621bca.jpeg",
   "static/media/AliAyub.jpeg": "static/media/AliAyub.f1f7d4e6.jpeg",
@@ -26,6 +26,7 @@
   "static/media/Orbiter.jpeg": "static/media/Orbiter.7532043c.jpeg",
   "static/media/Pranjal.jpeg": "static/media/Pranjal.ccbf3ff2.jpeg",
   "static/media/RishiRaj.jpeg": "static/media/RishiRaj.eaa99d7f.jpeg",
+  "static/media/Sanskar.jpeg": "static/media/Sanskar.1349481f.jpeg",
   "static/media/Saurabh.jpeg": "static/media/Saurabh.620270c9.jpeg",
   "static/media/Sudheesh.jpeg": "static/media/Sudheesh.bc68d3d8.jpeg",
   "static/media/Udaytheja.jpeg": "static/media/Udaytheja.5d5428eb.jpeg",
